@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://controlweb-arch.github.io/demo-Proyecto-Perfumes.github.io/sitemap.xml
