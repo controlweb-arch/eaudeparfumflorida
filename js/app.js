@@ -1,5 +1,5 @@
 const API_URL = "https://script.google.com/macros/s/AKfycbxcMGaKgOwwS8QuFKx_pzVB2y0vHtLkOnU5Rq83_HzOedchopiCRadp9vtxrvxQEczxTA/exec";
-const WHATSAPP = "59899981314"; 
+const WHATSAPP = "59898643182"; 
 
 const grid = document.getElementById("productos");
 const filtro = document.getElementById("filtro");
@@ -76,3 +76,4 @@ function cargarFiltros(data) {
   });
 
 }
+
